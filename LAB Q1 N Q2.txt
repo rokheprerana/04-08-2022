@@ -1,0 +1,4 @@
+Q1 select* from lab.employeesalary where salary>=5000 and salary<=10000;
+
+
+Q2 select * from employeedetails where FullName like 'hn%';
